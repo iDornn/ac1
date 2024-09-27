@@ -55,6 +55,7 @@
     height: 148px;
     top: 454px;
     left: 120px;
+    justify-content: space-around;
 }
 
 .coluna1 {
@@ -82,9 +83,10 @@
 
 .circulo {
     gap: 24.15px !important;
+    width: 148px;
 }
 
 .div-button {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
