@@ -1,10 +1,30 @@
-.paragrafo{
+.h1{
     font-family: "Lato", sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 16px;
     line-height: 43.2px;
     color: #333333;
-    
+}
 
+.p{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #333333;
+    text-align: justify;
+    width: 487px;
+    height: 60px;
+    top: 67px;
+    left: 4px;
+}
+
+.img{
+    height: 348px;
+    width: 302px;
+    border-radius: 40px;
+    border: 1px;
+    border-color: black;
+    
 }
